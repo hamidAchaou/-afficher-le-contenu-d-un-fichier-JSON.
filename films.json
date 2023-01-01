@@ -1,0 +1,287 @@
+[
+  {
+    "titre": "Carter",
+    "réalisateur": "Todd Phillips",
+    "durée": "2h 12m",
+    "production": "2022",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Joo Won",
+        "nationality": "korean"
+      },
+      {
+        "name": "Camilla Belle",
+        "nationality": "american"
+      },
+      {
+        "name": "Mike Colter",
+        "nationality": "american"
+      },
+      {
+        "name": "Lee Sung-jae",
+        "nationality": "korean"
+      }
+    ]
+  } ,
+
+  {
+    "titre": "The Godfather",
+    "réalisateur": "Francis Ford Coppola",
+    "durée": "2h 55m",
+    "production": "1972",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Marlon  Brando",
+        "nationality": "american"
+      },
+      {
+        "name": "James Caan",
+        "nationality": "american"
+      },
+      {
+        "name": "Robert Duvall",
+        "nationality": "american"
+      },
+      {
+        "name": "Sterling Hayden",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "Joker",
+    "réalisateur": "Todd Phillips",
+    "durée": "2h 2m",
+    "production": "2019",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "cinema": [" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Joaquin Phoenix",
+        "nationality": "american"
+      },
+      {
+        "name": "Robert De Niro",
+        "nationality": "american"
+      },
+      {
+        "name": "Zazie Beetz",
+        "nationality": "american"
+      },
+      {
+        "name": "Brett Cullen",
+        "nationality": "american"
+      }
+    ]
+  } ,
+  {
+    "titre": "Avengers: Infinity War",
+    "réalisateur": "Anthony RussoJoe Russo",
+    "durée": "2h 29m",
+    "production": "2018",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "cinema":[" MZE.x "," derocean ", " matyname"],
+    "Acteurs": [
+      {
+        "name": "Robert Downey Jr",
+        "nationality": "american"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "nationality": "american"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "nationality": "american"
+      },
+      {
+        "name": "Don Cheadle",
+        "nationality": "american"
+      }
+    ]
+  } , 
+  {
+
+    "titre": "Her",
+
+    "réalisateur": "Spike Jonze",
+
+    "durée": "126 minutes",
+
+    "production": "2013",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+
+    "cinema": [
+
+      "Venice Film Festival",
+
+      "Toronto International Film Festival"
+
+    ],
+
+    "Acteurs": [
+
+      {
+
+        "name": "Joaquin Phoenix",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Scarlett Johansson",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Amy Adams",
+        "nationality": " American"
+
+      }
+
+    ]
+
+  },
+  {
+
+    "titre": "The Wolf of Wall Street",
+
+    "réalisateur": "Martin Scorsese",
+
+    "durée": "180 minutes",
+
+    "production": "2013",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+
+    "cinema": [
+
+      "Venice Film Festival",
+
+      "Toronto International Film Festival"
+
+    ],
+
+    "Acteurs": [
+
+      {
+
+        "name": "Leonardo DiCaprio",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Jonah Hill",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Margot Robbie",
+        "nationality": " Australian"
+
+      }
+
+    ]
+
+  },
+  {
+
+    "titre": "The Shawshank Redemption",
+
+    "réalisateur": "Frank Darabont",
+
+    "durée": "142 minutes",
+
+    "production": "1994",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+
+    "cinema": [
+
+      "Cannes Film Festival",
+
+      "Toronto International Film Festival"
+
+    ],
+
+    "Acteurs": [
+
+      {
+
+        "name": "Tim Robbins",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Morgan Freeman",
+        "nationality": " American"
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "titre": "Inception",
+
+    "réalisateur": "Christopher Nolan",
+
+    "durée": "148 minutes",
+
+    "production": "2010",
+
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+
+    "cinema": [
+
+      "Cannes Film Festival",
+
+      "Toronto International Film Festival"
+
+    ],
+
+    "Acteurs": [
+
+      {
+
+        "name": "Leonardo DiCaprio",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Joseph Gordon-Levitt",
+        "nationality": " American"
+
+      },
+
+      {
+
+        "name": "Ellen Page",
+        "nationality": " Canadian"
+
+      }
+
+    ]
+
+  }
+
+
+]
